@@ -1,0 +1,5 @@
+OWNERDOMAIN=jacostudio.games
+# Google AdMob
+google.com, pub-6009835222621126, DIRECT, f08c47fec0942fa0
+# Unity LevelPlay / ironSource
+ironsrc.com, 695251, DIRECT
